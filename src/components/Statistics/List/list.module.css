@@ -1,0 +1,11 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0;
+    width: 100%;
+}
+
+
+.percentage {
+    margin-top: 5px;
+}
